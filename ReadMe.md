@@ -10,7 +10,6 @@
 <br />
 <div align="center">
   <a href="https://mazcoynft.github.io/the-wedding/">
-    <img src="images/readme/half%20circle.png" alt="Logo" width="120" height="120">
   </a>
 
   <h1 align="center">The Wedding</h1>
